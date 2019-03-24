@@ -1,4 +1,4 @@
-# Coin Collector
+# Get The Gold
 Control a fox and collect coins for more score.
 
 You need Python 3.6.x or higher and the following librarys to run this game:
